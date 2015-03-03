@@ -1,0 +1,22 @@
+{
+  "name": "angular-eha.cordova.camera",
+  "description": "Angular.js Interface to org.apache.cordova.camera",
+  "version": "0.0.0",
+  "authors": [
+    "oss@ehealthafrica.org"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": ["cordova","camera","angularjs","service","directive"],
+  "main": "dist/angular-eha.cordova.camera.js",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
