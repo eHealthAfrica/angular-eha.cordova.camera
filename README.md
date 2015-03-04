@@ -1,6 +1,6 @@
 # angular-eha.cordova.camera
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.cordova.camera.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.cordova.camera)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.cordova.camera.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.cordova.camera) ![Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.cordova.camera.svg) ![Dev Dependecy Status](https://david-dm.org/eHealthAfrica/angular-eha.cordova.camera/dev-status.svg)
 
 ## Usage
 
