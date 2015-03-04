@@ -1,7 +1,7 @@
 {
   "name": "angular-eha.cordova.camera",
   "description": "Angular.js Interface to org.apache.cordova.camera",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "oss@ehealthafrica.org"
   ],
