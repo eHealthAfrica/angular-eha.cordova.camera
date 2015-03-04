@@ -4,6 +4,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased] - unreleased
 
+## v1.0.2 - 04/03/2015
+- Republish to npm
+
 ## v1.0.1 - 04/03/2015
 
 ### Fixed
