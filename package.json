@@ -1,6 +1,6 @@
 {
   "name": "angular-eha.cordova.camera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular.js Interface to org.apache.cordova.camera",
   "main": "dist/angular-eha.cordova.camera.js",
   "scripts": {
